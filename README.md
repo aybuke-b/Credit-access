@@ -1,6 +1,6 @@
 # Credit access
 
-Réalisé par *[Aybuké BICAT](https://github.com/aybuke-b)* & *[Corentin DUCLOUX](https://github.com/CDucloux)*
+Réalisé par *[Corentin DUCLOUX](https://github.com/CDucloux)* & *[Aybuké BICAT](https://github.com/aybuke-b)*
 
 Le fichier `.pdf` contient l'ensemble de l'analyse $-$ Bonne lecture !
 
